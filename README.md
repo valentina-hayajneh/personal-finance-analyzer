@@ -4,15 +4,14 @@ A beginner-friendly Python command-line project that calculates monthly expenses
 
 ## Python Concepts Used
 
-This project applies the topics covered in Parts 1–5 of the Python course:
+This project applies the following Python concepts:
 
-- Getting started
-- Information from the user
+- Information from the User
 - Variables
-- Arithmetic operations
-- Conditional statements
+- Arithmetic Operations
+- Conditional Statements
 
-**Built-in functions used:** `print()`, `input()`, `float()`, `exit()`.
+**Built-in Functions:** `print()`, `input()`, `float()`, `exit()`.
 
 ## Financial Calculations
 
